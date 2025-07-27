@@ -1,6 +1,6 @@
 /*
 calc2_subtraction.c, Jira US: G1FP-4
-Author: Haley Archer
+Author: Jaden Covington, Haley Archer
 Description: Performs subtraction and stores result in global variable.
 */
 

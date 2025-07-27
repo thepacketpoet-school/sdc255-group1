@@ -1,6 +1,6 @@
 /*
 calc1_addition.c, Jira US: G1FP-3
-Author: Haley Archer
+Author: Jaden Covington, Haley Archer
 Description: Performs addition and stores result in global variable.
 */
 

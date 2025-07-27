@@ -70,10 +70,11 @@ After compiling, execute the program with:
 
 ## Contributors
 
-- Haley Archer  
-- Cody Ackerman  
-- Moriah Payne  
-- Joshua Taylor  
+- Haley Archer 
+- Moriah Payne 
+- Cody Ackerman 
+- Joshua Taylor
+- Jaden Covington 
 
 ---
 
